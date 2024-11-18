@@ -1,4 +1,4 @@
-package com.example.smstest.ui.theme
+package com.example.smstest.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.example.smstest.ui.theme
+package com.example.smstest.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "SmsTest"
 include(":app")
- 
+include(":data")
+include(":domain")
