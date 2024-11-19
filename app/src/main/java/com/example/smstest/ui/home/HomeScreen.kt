@@ -50,6 +50,8 @@ fun HomeScreen() {
             },
             placeholder = { Text("Numero de telefono") }
         )
+        
+        Text(text = "Jose Luis")
 
         Button(
             onClick = { SendSMS(phoneNumber = number, message = text, context = context) },
